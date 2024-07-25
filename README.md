@@ -11,7 +11,7 @@ Created with Power BI, the dashboard is highly intuitive and user-friendly, allo
 ## Jupyter Notebook
 
 1. EDA Exploratory analysis 
-2. ETL Extraction and visualization using Python and its libraries.
+2. ETL Extraction and visualization using Python and libraries.
 
 ## SQL
 
