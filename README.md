@@ -1,5 +1,8 @@
 # Summary of Drink's Distributor Analytics
 
+![](./DashBoard/IMG/DashBoard.png)
+
+
 ## Data
 
 Wholesale beverage sales dataset available on Kaggle.
